@@ -1,0 +1,45 @@
+Configuration Tools In DevOps
+Ansible
+Chef
+Puppet
+Salt
+
+Version Configuration Tools
+Perforce
+Git
+Svn
+
+Continous Integration Tools
+Jenkins(Hudson)
+GitLab
+Bamboo
+
+Artifactory
+Maven
+Nexus
+Jfrog
+
+Build Tools
+Maven
+ANT
+Gradle
+
+Scripting Languages
+Shell/Bash
+Python
+Perl
+PowerShell
+
+Cloud Technologies
+AWS
+Azure
+Salesforce
+
+Docker
+Docker swarm
+Kubernetes
+
+Monitoring & Load Balancing Tools
+Nagios
+Amazon ELB
+
