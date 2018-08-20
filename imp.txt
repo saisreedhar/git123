@@ -1,0 +1,8 @@
+1. Linux  operating System Management in DevOps 
+2. Git  Source Code Management (SCM Tool)
+3. Git-Hub  Online Repository Storage
+4. Maven  Build Tool
+5. Jenkins  Continuous Integration (CI, C Delivery & Deploy)
+6. CHEF  Configuration Management (CM Tool)
+7. Docker  Container Virtualization 
+8. AWS  Amazon Web Services (Cloud) 
